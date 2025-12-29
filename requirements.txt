@@ -1,0 +1,8 @@
+# requirements.txt
+
+requests
+pandas
+python-dotenv
+pandas-gbq
+google-cloud-bigquery
+pyarrow
